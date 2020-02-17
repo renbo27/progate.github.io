@@ -1,0 +1,26 @@
+header{
+    color: crimson;
+}
+header h1{
+    margin: 0 0 ;
+}
+
+header h1:hover{
+    opacity: 0.7;
+}
+.container{
+    height:150px;
+    background-color: lightcoral;
+    font-size: 15px;
+}
+.header-left{
+    float: left;
+    padding: 0 0;
+    margin: 0 0;
+}
+
+.header-right{
+    float: right;
+    padding: 0 0;
+    margin: 0 0;
+}
